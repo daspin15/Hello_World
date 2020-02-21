@@ -1,11 +1,11 @@
 # Hello_World
 
-#Practice Repository
+### Practice Repository
 
-#BA: Prop-Prep
+### BA: Prop-Prep
 
-Files Edited
+### Files Edited
 
-I am a student at the University of Iowa studying Business Analytics
+### I am a student at the University of Iowa studying Business Analytics
 
-Variations
+### Variations
