@@ -4,6 +4,12 @@
 ### Files Edited 
 *Describe edits made*
 
+Commit 1: Change Font styles for headings
+
+Commit 2: Setup quick link for primary user (daspin15)
+
+Commit 3: Change font styles for short descriptions
+
 ### Variations
 *Different avenues and ideas*
 
