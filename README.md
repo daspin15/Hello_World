@@ -1,4 +1,8 @@
-### [Table of Contents]
+### Table of Contents
+[Practice Repository](https://github.com/daspin15/Hello_World/blob/master/README.md) 
+[Files Edited](https://github.com/daspin15/Hello_World/blob/master/README.md) 
+[Variations](https://github.com/daspin15/Hello_World/blob/master/README.md) 
+[Jump to Edit(only for primary user)](https://github.com/daspin15/Hello_World/blob/master/README.md) 
 
 ### Practice Repository
 *BA: Prop-Prep GitHub setup*
