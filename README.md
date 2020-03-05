@@ -1,6 +1,6 @@
 ### Table of Contents
 
-[Practice Repository](https://github.com/daspin15/Hello_World/blob/master/README.md) 
+[Practice Repository](https://github.com/daspin15/Hello_World/###Practice-Repository/blob/master/README.md) 
 
 [Files Edited](https://github.com/daspin15/Hello_World/blob/master/README.md) 
 
